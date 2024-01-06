@@ -1,6 +1,6 @@
-# Delicious Pizza Sales Report
+# Delicious Pizza Sales Dashboard
 
-Welcome to the Delicious Pizza Sales Report project! This repository contains a comprehensive analysis of pizza sales data, presented in a visually appealing and premium-looking dashboard. The project leverages the power of Excel and Power BI to provide insightful and interactive data visualizations.
+Welcome to the Delicious Pizza Sales Dashboard project! This repository contains a comprehensive analysis of pizza sales data, presented in a visually appealing and premium-looking dashboard. The project leverages the power of Excel and Power BI to provide insightful and interactive data visualizations.
 ![Dashboard](https://github.com/sunilmbaedu/Delicious_Pizza_Sales_Report/assets/154014386/ebacc4a8-8d1d-4ab2-809f-0d8330d78f28)
 
 **Mobile View:**
@@ -35,7 +35,7 @@ The primary goal of this project is to analyze and showcase the sales data of a 
 
 ## Getting Started
 
-To explore the Delicious Pizza Sales Report, follow these steps:
+To explore the Delicious Pizza Sales Dashboard, follow these steps:
 
 1. **Open the this File:**
    - Click the file : <a href = "https://app.powerbi.com/view?r=eyJrIjoiYzI0Y2VmYmItMmIwNi00NjBkLTkzMzgtMTY4MmUwZmZlMWMyIiwidCI6IjE1NTIyMThlLWZmYjQtNGNhMy04ZjcxLTlhNzNmYWVhYTRiNSJ9">HERE</a>
