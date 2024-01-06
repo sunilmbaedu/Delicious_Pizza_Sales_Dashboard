@@ -1,7 +1,13 @@
 # Delicious Pizza Sales Report
 
 Welcome to the Delicious Pizza Sales Report project! This repository contains a comprehensive analysis of pizza sales data, presented in a visually appealing and premium-looking dashboard. The project leverages the power of Excel and Power BI to provide insightful and interactive data visualizations.
-![Screenshot 2024-01-06 164445](https://github.com/sunilmbaedu/Delicious_Pizza_Sales_Report/assets/154014386/8c905720-53f5-433c-80ed-c2f4a3dda890)
+![Dashboard](https://github.com/sunilmbaedu/Delicious_Pizza_Sales_Report/assets/154014386/ebacc4a8-8d1d-4ab2-809f-0d8330d78f28)
+
+**Mobile View:**
+
+![Mobile 1](https://github.com/sunilmbaedu/Delicious_Pizza_Sales_Report/assets/154014386/0ccb5e76-f0dd-444a-929d-9f4343245105)
+![Mobile 2](https://github.com/sunilmbaedu/Delicious_Pizza_Sales_Report/assets/154014386/024db6b3-52c0-4e00-b01a-9b48c9de64bf)
+![Mobile 3](https://github.com/sunilmbaedu/Delicious_Pizza_Sales_Report/assets/154014386/b50a4c18-7ef5-444d-9f09-687012684245)
 
 ## Project Overview
 
